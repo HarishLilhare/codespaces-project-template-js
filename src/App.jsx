@@ -1,8 +1,4 @@
-/**
- * Application component
- *
- * To contain application wide settings, routes, state, etc.
- */
+
 
 import React from "react";
 
@@ -24,12 +20,12 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
+  name: "Harish Lilhare",
+  title: "Full stack  Developer",
+  email: "harishlilhare97@gmail.com",
+  gitHub: "/HarishLilhare",
   instagram: "microsoft",
-  linkedIn: "satyanadella",
+  linkedIn: "/harishlilhare/",
   medium: "",
   twitter: "microsoft",
   youTube: "Code",
